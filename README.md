@@ -27,7 +27,7 @@ To get a local copy of the repository:
 
 1. **Clone the Repository:**
     ```bash
-    git clone https://github.com/your-username/Health-ComAI.git
+    git clone https://github.com/Health-ComAI/Health-ComAI.git
     ```
 2. **Navigate to the Repository Directory:**
     ```bash
